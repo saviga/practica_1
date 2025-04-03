@@ -5,3 +5,4 @@ Amarillo
 Naranja
 Morado
 rosa
+cian
